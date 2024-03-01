@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello!
+I'm Bryce Caine. As a profession, I develop web applications and data solutions at [SUU](https://www.suu.edu) to improve employees' and students' lives. At home, I work on side projects (self hosting, diy esp8266 devices, productivity, etc).
 
-<!--
-**brycecaine/brycecaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I use:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img alt="python" src="https://img.shields.io/badge/python-gray?logo=python&logoColor=white" />
+  <img alt="django" src="https://img.shields.io/badge/django-gray?logo=django&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/javascript-gray?logo=javascript&logoColor=white" />
+  <img alt="alpinedotjs" src="https://img.shields.io/badge/alpine.js-gray?logo=alpinedotjs&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/git-gray?logo=git&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/docker-gray?logo=docker&logoColor=white" />
+  <img alt="sql" src="https://img.shields.io/badge/sql-gray?logo=sql&logoColor=white" />
+  <img alt="oracle" src="https://img.shields.io/badge/oracle-gray?logo=oracle&logoColor=white" />
+  <img alt="amazon-redshift" src="https://img.shields.io/badge/redshift-gray?logo=amazon-redshift&logoColor=white" />
+  
+- I'm currently working on [sqlpt](https://github.com/brycecaine/sqlpt).
+- I enjoy reading to my kids, getting outside, and journaling.
