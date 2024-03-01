@@ -1,5 +1,5 @@
 # Hello!
-I'm Bryce Caine. As a profession, I develop web applications and data solutions at [SUU](https://www.suu.edu) to improve employees' and students' lives. At home, I work on side projects (self hosting, diy esp8266 devices, productivity, etc).
+I'm Bryce Caine. As a profession, I develop web applications and data solutions at <a href="https://www.suu.edu" target="_blank">SUU</a>. At home, I juggle life and work on side projects (self hosting, diy esp8266 devices, productivity, etc).
 
 - I use:
 
@@ -14,4 +14,6 @@ I'm Bryce Caine. As a profession, I develop web applications and data solutions 
   <img alt="amazon-redshift" src="https://img.shields.io/badge/redshift-gray?logo=amazon-redshift&logoColor=white" />
   
 - I'm currently working on [sqlpt](https://github.com/brycecaine/sqlpt).
-- I enjoy reading to my kids, getting outside, and journaling.
+- I enjoy reading to my kids, getting outside, and having new adventures.
+
+Feel free to make comments or suggestions on any of my projects.
