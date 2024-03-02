@@ -1,5 +1,5 @@
 # Hello!
-I'm Bryce Caine. As a profession, I develop web applications and data solutions at <a href="https://www.suu.edu" target="_blank">SUU</a>. At home, I juggle life and work on side projects (self hosting, diy esp8266 devices, productivity, etc).
+I'm Bryce Caine. As a profession, I develop web applications, integrations, and data solutions at <a href="https://www.suu.edu" target="_blank">SUU</a>. At home, I juggle life and work on side projects (self hosting, diy esp8266 devices, productivity, etc).
 
 - I use:
 
